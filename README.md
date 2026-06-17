@@ -18,6 +18,6 @@ This tool allows you to quickly check open ports on a target host and identify r
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/port-scanner.git
+git clone https://github.com/vickybhajjal/port-scanner.git
 cd port-scanner
 pip3 install -r requirements.txt

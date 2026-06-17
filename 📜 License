@@ -1,0 +1,6 @@
+
+---
+
+👉 Vivek, since you’re running Kali inside VMware, I’d recommend testing this README with a **simple Python script** first (like `port_scanner.py`) before moving to advanced SYN/UDP scanners. That way you avoid dependency headaches.  
+
+Would you like me to also draft the **actual Python script** (`port_scanner.py`) that matches this README so you can run it right away?

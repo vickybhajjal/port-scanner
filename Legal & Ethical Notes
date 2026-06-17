@@ -1,0 +1,17 @@
+Always scan only networks you own or have explicit written permission to test.
+
+Unauthorized port scanning can violate laws like the Computer Fraud and Abuse Act (CFAA) or GDPR.
+
+Safe use cases:
+
+✅ Your own servers/networks
+
+✅ Authorized penetration tests
+
+✅ Controlled lab/educational environments
+
+Avoid:
+
+❌ Scanning government, financial, or critical infrastructure systems
+
+❌ Using scanners for malicious reconnaissance

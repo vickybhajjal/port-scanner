@@ -21,3 +21,16 @@ Clone the repository and install dependencies:
 git clone https://github.com/vickybhajjal/port-scanner.git
 cd port-scanner
 pip3 install -r requirements.txt
+
+🚀 Usage
+python3 port_scanner.py -H <target_host> -p <port_range>
+
+Examples
+# Scan common ports on example.com
+python3 port_scanner.py -H example.com -p 21,22,80,443
+
+# Scan full range on localhost
+python3 port_scanner.py -H 127.0.0.1 -p 1-1024
+
+
+
